@@ -1,6 +1,8 @@
 # Core Lab Objects: CT
 Fall 2023
+
 Instructor: Hong Hua
+
 Section: D
 
 Design & Technology, Parsons School of Design, The New School
